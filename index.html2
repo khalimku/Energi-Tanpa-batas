@@ -196,6 +196,12 @@
 </style>
 </head>
 <body>
+<div class="reading-nav" style="position:sticky; top:0; z-index:20; background:rgba(251,246,238,.96); border-bottom:1px solid #e7ddcc; backdrop-filter:blur(6px);">
+  <div class="wrap" style="max-width:640px; margin:0 auto; padding:12px 22px; display:flex; justify-content:space-between; align-items:center;">
+    <a href="index.html" style="color:#2b2420; text-decoration:none; font-weight:700; letter-spacing:.2px;">← Halaman 1</a>
+    <span style="font-size:11px; letter-spacing:2px; text-transform:uppercase; color:#6b5f54;">Lanjutan</span>
+  </div>
+</div>
 <div class="wrap">
 
   <!-- COVER -->
@@ -218,9 +224,9 @@
 
     <p class="lede">Dengarkan baik-baik. Ada suara yang tak pernah berhenti sejak engkau dilahirkan, suara yang lebih setia dari siapa pun yang pernah mencintaimu.</p>
 
-    <p>Itulah detak jantungmu. Tok... tok... tok... Bukan sekadar hitungan waktu yang berlalu begitu saja, melainkan tasbih tersembunyi yang tak pernah lelah bergema di dinding kalbu. Setiap denyutnya adalah palu kecil yang menempa satu bait pujian, diam-diam, tanpa pernah engkau minta.</p>
+    <p>Itulah detak jantungmu. Tok... tok... tok... Bukan sekadar hitungan waktu yang berlalu begitu saja, melainkan tasbih tersembunyi yang tak pernah lelah bergema di dinding kalbu. Setiap denyutnya berbisik dalam bahasa yang paling sederhana: segala sesuatu masih diberikan, masih dipertahankan, masih dijaga. Kita bernafas bukan karena kita kuat, melainkan karena Allah tetap mengizinkan kita hidup, menatap hari, dan meniti langkah demi langkah menuju makna yang lebih dalam.</p>
 
-    <p>Coba rasakan aliran darah yang hangat merayap di bawah kulitmu sekarang. Di sanalah tersembunyi satu bisikan suci yang tak bersuara, namun terus terucap: <em>"Terima kasih, ya Rabb, telah Kau izinkan raga ini bernyawa."</em></p>
+    <p>Coba rasakan aliran darah yang hangat merayap di bawah kulitmu sekarang. Di sanalah tersembunyi satu bisikan suci yang tak bersuara, namun terus terucap: <em>"Terima kasih, ya Rabb, telah Kau izinkan aku terus berdetak, terus bergerak, terus bertumbuh."</em> Ia bukan sekadar metabolisme, namun bentuk syukur paling sederhana yang tubuh kita ajarkan tanpa sepatah kata pun.</p>
 
     <div class="poem-block">
       <p class="poem">Detak pertama adalah pengakuan atas kelemahan,</p>
@@ -229,9 +235,9 @@
       <p class="poem">memanggil-manggil nama Zat yang paling dicintai.</p>
     </div>
 
-    <p>Bahkan ketika lelah merayap di ujung hari dan tubuh nyaris menyerah, nadi ini tetap setia berdenyut, seirama dengan takdir-Nya. Tiada keluh yang dikirimkannya, tiada jemu yang ia kenal. Yang ada hanya kepasrahan yang manis — bahwa hidup ini adalah detik demi detik yang selalu dipeluk erat oleh kasih sayang-Nya.</p>
+    <p>Bahkan ketika lelah merayap di ujung hari dan tubuh nyaris menyerah, nadi ini tetap setia berdenyut, seirama dengan takdir-Nya. Tiada keluh yang dikirimkannya, tiada jemu yang ia kenal. Yang ada hanyalah kepatuhan yang halus, seolah berkata: <em>"Aku tetap akan berdetak sampai saatnya Kau panggil kembali."</em> Itulah syukur yang tak butuh podium. Hanya butuh hati yang mau mendengar.</p>
 
-    <p>Syukur, kawan, adalah rahasia tertua di alam semesta. Ia denyut nadi spiritual yang menghidupkan segala wujud. Ketika kita berani menyelaminya lebih dalam, kita akan sadar: syukur bukan lagi sekadar ucapan setelah menerima sesuatu yang baik. Ia adalah fondasi dari keberadaan kita sendiri di hadapan Sang Maha Pencipta.</p>
+    <p>Syukur, kawan, adalah rahasia tertua di alam semesta. Ia denyut nadi spiritual yang menghidupkan segala wujud. Ketika kita berani menyelaminya lebih dalam, kita akan sadar: syukur bukan lagi sekadar ucapan saat nikmat datang, tetapi cara hidup saat luka, saat senja, dan saat hati bertanya, "Untuk apa semua ini?" Ia adalah jawaban yang tak perlu diucapkan dengan lantang — cukup terasa dalam setiap hembusan nafas dan denyut yang terus mengingatkan kita pada Pemilik hidup.</p>
   </section>
 
   <!-- BAB 1 -->
@@ -247,16 +253,16 @@
     <p class="lede">Bayangkan syukur bukan sebagai satu perasaan tunggal, melainkan sebuah rumah dengan empat jendela. Dari setiap jendela itu, kita memandang kehidupan dengan cahaya yang berbeda.</p>
 
     <h3 class="sub">Jendela Pertama: Mengakui Ketidakberdayaan</h3>
-    <p>Duduklah sejenak dan renungkan ini — dirimu, pada mulanya, adalah ketiadaan yang diberi wujud. Bahkan napas yang baru saja kau hirup adalah pinjaman, yang sewaktu-waktu harus kau kembalikan. Ketika kesadaran ini menyentuh hati, lahirlah kerendahan yang sesungguhnya. Tak ada lagi ruang untuk sombong, sebab setiap pencapaian yang kau banggakan sejatinya adalah karunia, bukan hasil jerih payahmu semata.</p>
+    <p>Duduklah sejenak dan renungkan ini — dirimu, pada mulanya, adalah ketiadaan yang diberi wujud. Bahkan napas yang baru saja kau hirup adalah pinjaman, yang sewaktu-waktu harus kau kembalikan. Ketika hati mulai memahami hal itu, syukur tumbuh bukan dari kebanggaan, melainkan dari pengakuan: <em>"Aku bukan pencipta hidupku sendiri."</em> Di titik ini, jiwa menjadi lapang, karena ia tak lagi berusaha menguasai segala sesuatu yang sejatinya bukan miliknya.</p>
 
     <h3 class="sub">Jendela Kedua: Melihat Sang Pemberi, Bukan Hanya Pemberian</h3>
-    <p>Orang yang bersyukur dengan segenap jiwa tidak berhenti pada apa yang ia terima. Ia menembus lebih jauh, menatap Sang Pemberi di balik setiap pemberian. Dunia ini, baginya, adalah cermin yang memantulkan kasih sayang Tuhan. Saat diberi kelapangan, ia melihat kemurahan-Nya. Saat diuji dengan kesulitan, ia melihat didikan-Nya. Tidak ada lagi yang buruk di matanya — karena ia tidak lagi memandang benda, ia memandang cinta.</p>
+    <p>Orang yang bersyukur dengan segenap jiwa tidak berhenti pada apa yang ia terima. Ia menembus lebih jauh, menatap Sang Pemberi di balik setiap pemberian. Dunia ini, baginya, adalah cermin yang membisikkan: <em>"Lihatlah sumber cahaya di balik semua yang kau nikmati."</em> Begitu ia melihat itu, harta, kesehatan, bahkan sekadar kesempatan untuk berdiri di pagi hari, semua berubah menjadi tanda cinta.</p>
 
     <h3 class="sub">Jendela Ketiga: Melebur dalam Rida</h3>
-    <p>Ini yang sering terlewat: banyak dari kita hanya bersyukur ketika keinginan tercapai. Namun syukur yang sesungguhnya justru diuji ketika hidup berjalan berbeda dari rencana kita. Di titik inilah pintu rida terbuka — saat kehendak kita melebur, tunduk penuh pada kehendak-Nya. Kita percaya, apa yang tak diberikan adalah perlindungan, dan apa yang diambil adalah cara-Nya membersihkan jiwa kita.</p>
+    <p>Ini yang sering terlewat: banyak dari kita hanya bersyukur ketika keinginan tercapai. Namun syukur yang sesungguhnya justru diuji ketika hidup berjalan berbeda dari rencana kita. Di titik inilah sosok hamba yang benar-benar bersyukur terlihat. Ia berkata, <em>"Tuhan, aku tetap percaya bahwa Engkau Maha Tahu. Segala yang Kau pilih untukku adalah pendidikan, bukan hukuman."</em> Rida bukan tanda pasrah buta; ia tanda bahwa hati sudah belajar mempercayai kasih sayang Sang Pencipta.</p>
 
     <h3 class="sub">Jendela Keempat: Ikut dalam Simfoni Semesta</h3>
-    <p>Cobalah bayangkan alam raya — dari bintang paling jauh hingga sehelai daun yang jatuh — sedang bersujud dan bertasbih tanpa henti. Ketika engkau bersyukur, engkau sedang menyelaraskan getaran jiwamu dengan simfoni agung itu. Dan janji-Nya pasti: keselarasan ini akan membawa perluasan, keberkahan, dan makna yang tak lekang oleh waktu.</p>
+    <p>Cobalah bayangkan alam raya — dari bintang paling jauh hingga sehelai daun yang jatuh — sedang bersujud dan bertasbih tanpa henti. Ketika engkau bersyukur, engkau sedang menyelaraskan getar jiwamu dengan simfoni besar itu. Engkau tidak lagi hidup sebagai satu individu yang menggantungkan diri pada ego, melainkan sebagai bagian dari seluruh ciptaan yang memuji Sang Pencipta dengan cara yang tak terbatas.</p>
 
     <p class="pull">Syukur bukan reaksi, ia adalah cara memandang.</p>
   </section>
@@ -274,18 +280,18 @@
     <p class="lede">Mari turun sejenak dari langit filsafat menuju keseharian yang paling sederhana. Sebab syukur yang agung sesungguhnya berdiam di hal-hal kecil yang sering luput dari perhatian kita.</p>
 
     <h3 class="sub">Ketika Menerima Apa Adanya</h3>
-    <p>Banyak dari kita mengira syukur hanya pantas diucapkan saat segalanya lapang. Padahal, syukur sejati justru berani merangkul keadaan apa pun. Ia berbisik lembut pada diri sendiri: <em>"Apa pun yang datang hari ini, sempit atau lapang, inilah arsitektur terbaik yang Tuhan siapkan untuk mendewasakanku."</em> Dengan begitu, syukur membebaskan kita dari jeruji penyesalan masa lalu dan kecemasan akan hari esok.</p>
+    <p>Banyak dari kita mengira syukur hanya pantas diucapkan saat segalanya lapang. Padahal, syukur sejati justru berani merangkul keadaan apa pun. Ia berbisik lembut pada diri sendiri: <em>"Apa pun yang menimpa hari ini, aku masih punya ruang untuk bersyukur di dalamnya."</em> Ketika kata ini lahir dari hati, maka luka tak lagi otomatis memakan seluruh hidup kita.</p>
 
     <h3 class="sub">Sang Alkimia yang Mengubah Segalanya</h3>
-    <p>Percayakah engkau bahwa syukur bisa mengubah batu sandungan menjadi batu loncatan? Mengubah air mata kesedihan menjadi embun ketenangan? Itulah keajaiban syukur — ia zat transmutasi paling mujarab di muka bumi. Orang yang bersyukur tidak pernah merasa benar-benar rugi. Diberi, ia setia dalam nikmat. Diuji, ia setia dalam sabar yang berbuah hikmah.</p>
+    <p>Percayakah engkau bahwa syukur bisa mengubah batu sandungan menjadi batu loncatan? Mengubah air mata kesedihan menjadi embun ketenangan? Itulah keajaiban syukur — ia zat transmutasi paling mujarab. Dalam hati yang mau bersyukur, kesulitan tidak lagi berpura-pura menjadi musuh abadi. Ia adalah guru yang menyadarkan bahwa di balik setiap ujian, ada pelajaran yang sedang mengantar kita menuju kedewasaan rohani.</p>
 
     <h3 class="sub">Kacamata yang Menjernihkan Pandangan</h3>
-    <p>Di tengah dunia yang riuh dengan standar kesuksesan semu, syukur adalah lensa yang menyaring mana kebutuhan sejati dan mana keinginan yang menipu. Ia mengajarkan kita melihat keajaiban kecil yang terabaikan — sapaan angin pagi, seteguk air yang menyegarkan, detak jantung yang berdetak tanpa perlu kita perintah. Yang tadinya terasa "biasa saja" berubah menjadi mukjizat harian.</p>
+    <p>Di tengah dunia yang riuh dengan standar kesuksesan semu, syukur adalah lensa yang menyaring mana kebutuhan sejati dan mana keinginan yang menipu. Ia mengajarkan kita melihat keajaiban kecil yang biasa lewat: udara yang menyentuh paru-paru, secangkir kopi yang menenangkan, senyum orang yang menyambut, dan hari yang memberi ruang untuk bertumbuh.</p>
 
     <h3 class="sub">Syukur yang Bergerak, Bukan Hanya Berdiam</h3>
-    <p>Syukur yang sungguh-sungguh tidak betah berdiam di dalam dada. Ia mendesak untuk keluar, menjelma menjadi tindakan. Orang yang benar-benar bersyukur atas rezekinya akan gelisah bila tidak berbagi. Orang yang bersyukur atas kesehatannya akan menggunakannya untuk meringankan langkah sesama. Begitulah syukur menular — menyebarkan kehangatan ke penjuru bumi.</p>
+    <p>Syukur yang sungguh-sungguh tidak betah berdiam di dalam dada. Ia mendesak untuk keluar, menjelma menjadi tindakan. Orang yang benar-benar bersyukur atas rezekinya akan gelisah bila tidak berbagi; orang yang bersyukur atas ilmunya akan terdorong untuk mengajarkannya; orang yang bersyukur atas ampunannya akan lebih lembut dalam memperlakukan sesama. Dengan begitu, syukur bukan sekadar pujian, melainkan energi yang menggerakkan hati untuk bermanfaat.</p>
 
-    <p>Maka, cobalah pandang hidupmu dengan mata syukur mulai hari ini. Kau akan dapati, gelap malam tak lagi menakutkan, dan terik siang tak lagi membakar. Semuanya berubah menjadi simfoni cinta yang mengantarkan jiwamu pulang, dengan senyum yang utuh dan dada yang merdeka.</p>
+    <p>Maka, cobalah pandang hidupmu dengan mata syukur mulai hari ini. Kau akan dapati, gelap malam tak lagi menakutkan, dan terik siang tak lagi membakar. Semuanya berubah menjadi simfoni cinta yang bahkan bisa kau dengar saat hati sedang paling rapuh.</p>
   </section>
 
   <!-- BAB 3 -->
@@ -301,19 +307,19 @@
     <p class="lede">Andai syukur hanya soal keyakinan, mungkin sebagian orang akan ragu. Tapi mari kita lihat dari sisi yang lebih membumi — sisi akal, sisi ilmu, sisi tubuh kita sendiri.</p>
 
     <h3 class="sub">Otak yang Dilatih Ulang</h3>
-    <p>Otak manusia secara alami cenderung fokus pada ancaman dan kekurangan — para ilmuwan menyebutnya <em>negativity bias</em>. Syukur adalah rem yang menghentikan kecenderungan itu. Ketika kita bersyukur, akal dilatih melihat apa yang masih berfungsi, apa yang masih dimiliki. Stres pun menurun drastis, dan ketenangan batin yang objektif mulai tumbuh.</p>
+    <p>Otak manusia secara alami cenderung fokus pada ancaman dan kekurangan — para ilmuwan menyebutnya <em>negativity bias</em>. Syukur adalah rem yang menghentikan kecenderungan itu. Ketika kita secara sadar mengingat nikmat-nikmat kecil, otak membangun jalur baru: ia mulai menilai hidup bukan hanya dari apa yang kurang, tetapi juga dari apa yang sudah diberikan.</p>
 
     <h3 class="sub">Apa yang Difokuskan, Itulah yang Meluas</h3>
-    <p>Pikiran yang penuh keluhan akan menarik lebih banyak hal negatif ke dalam kesadaran kita. Sebaliknya, rasa syukur melatih otak untuk lebih peka terhadap berkah dan kebaikan kecil di sekitar kita. Fokus pun bergeser — dari apa yang hilang, menjadi apa yang tersedia untuk kita gunakan sebaik-baiknya.</p>
+    <p>Pikiran yang penuh keluhan akan menarik lebih banyak hal negatif ke dalam kesadaran kita. Sebaliknya, rasa syukur melatih otak untuk lebih peka terhadap berkah dan kebaikan kecil di sekitar kita. Ini bukan sekadar sugesti; ini adalah mekanisme perhatian. Ketika kita fokus pada kemurahan, jiwa kita lebih lapang, dan kabar baik tampak lebih sering menghampiri.</p>
 
     <h3 class="sub">Tubuh yang Lebih Kuat, Tidur yang Lebih Nyenyak</h3>
-    <p>Riset neurosains menunjukkan bahwa syukur yang konsisten memicu pelepasan dopamin dan serotonin. Orang yang terbiasa bersyukur cenderung tidur lebih baik, memiliki tekanan darah yang lebih stabil, dan sistem imun yang lebih kuat. Jiwa yang damai, ternyata, adalah pabrik imunitas terbaik.</p>
+    <p>Riset neurosains menunjukkan bahwa syukur yang konsisten memicu pelepasan dopamin dan serotonin. Orang yang terbiasa bersyukur cenderung tidur lebih baik, memiliki tekanan darah yang lebih stabil, dan lebih mampu mengelola stres. Tubuh, seperti hati, tahu bagaimana merespons pola pikir yang sehat. Ia menjadi lebih tenang ketika jiwa tidak terus menuntut lebih dari yang bisa dimiliki.</p>
 
     <h3 class="sub">Hubungan yang Lebih Hangat</h3>
-    <p>Syukur yang diekspresikan menumbuhkan kerendahan hati, menjauhkan kita dari kesombongan dan rasa iri. Orang yang bersyukur lebih mudah memaafkan, dan karenanya, lebih menyenangkan untuk dijadikan teman berjalan.</p>
+    <p>Syukur yang diekspresikan menumbuhkan kerendahan hati, menjauhkan kita dari kesombongan dan rasa iri. Orang yang bersyukur lebih mudah memaafkan, dan karenanya, lebih menyenangkan untuk dijadikan teman, partner, maupun saudara. Ia tidak menutup diri pada kekurangan orang lain; ia justru lebih peka pada kehangatan yang mungkin masih tersedia.</p>
 
     <h3 class="sub">Nikmat yang Terus Bertambah</h3>
-    <p>Ketika kita mensyukuri sekecil apa pun yang kita miliki, kita sedang memvalidasi kebermanfaatannya. Dan janji-Nya adalah pasti: nikmat akan ditambah bagi mereka yang bersyukur — baik secara spiritual, maupun lewat produktivitas nyata yang lahir dari ketenangan jiwa.</p>
+    <p>Ketika kita mensyukuri sekecil apa pun yang kita miliki, kita sedang memvalidasi kebermanfaatannya. Dan janji-Nya adalah pasti: nikmat akan ditambah bagi mereka yang bersyukur — baik secara materi, batin, maupun keberkahan yang tak selalu bisa diukur dengan angka. Inilah hukum yang paling adil dari Sang Pencipta: bila hati mengenal syukur, hidup akan terasa lebih penuh, bukan lebih sempit.</p>
 
     <div class="poem-block">
       <p class="poem">Bukan tentang ratap yang memecah malam,</p>
@@ -323,9 +329,9 @@
       <p class="poem">dan hanya napas yang berdetak dalam nama-Nya.</p>
     </div>
 
-    <p>Segala puji bagi Allah, yang napas ini masih diizinkan berhembus atas izin-Nya. Jika engkau bertanya apa yang bergemuruh di dalam dada seorang hamba yang terus berusaha bersyukur, maka inilah jawabannya: di dalam pikirannya, tak ada ruang untuk keluh kesah yang sia-sia. Setiap hari dipandang bukan sebagai beban, melainkan sebagai surat cinta berbalut misteri dari Sang Pencipta.</p>
+    <p>Segala puji bagi Allah, yang napas ini masih diizinkan berhembus atas izin-Nya. Jika engkau bertanya apa yang bergemuruh di dalam dada seorang hamba yang terus berusaha bersyukur, maka inilah jawabannya: ia tidak sedang menunggu hidup yang sempurna; ia sedang mencari cara agar hidupnya bisa lebih dekat pada Kebenaran dan lebih lembut terhadap sesama.</p>
 
-    <p>Ketika ujian datang, ia tak lagi bertanya, "Mengapa ini terjadi padaku?" Ia justru berbisik lembut, "Pesan kebaikan apa yang sedang Allah titipkan lewat episode ini?" Sebab ia yakin, Sang Maha Pengasih tak pernah salah menakar porsi, dan selalu menginginkan akhir yang terbaik bagi hamba-Nya.</p>
+    <p>Ketika ujian datang, ia tak lagi bertanya, <em>"Mengapa ini terjadi padaku?"</em> Ia justru berbisik lembut, <em>"Pesan kebaikan apa yang sedang Allah titipkan lewat episode ini?"</em> Sebab ia yakin, Sang Maha Mengetahui tidak pernah menurunkan musibah tanpa membawakan pelajaran yang menenangkan jiwa yang bersabar.</p>
   </section>
 
   <!-- BAB 4 -->
@@ -345,11 +351,9 @@
       <p class="poem">melainkan sebagai musafir rindu yang hatinya senantiasa terpaut pada Sang Maha Pencipta.</p>
     </div>
 
-    <p class="lede">Bayangkan malam yang sunyi di Madinah. Seluruh manusia telah lelap dalam buaian mimpi. Namun ada satu sosok yang justru bangkit dari peraduannya, merentangkan kaki dalam sujud yang panjang — begitu panjang, hingga kulit kakinya yang mulia retak dan membengkak.</p>
+    <p class="lede">Bayangkan malam yang sunyi di Madinah. Seluruh manusia telah lelap dalam buaian mimpi. Namun ada satu sosok yang justru bangkit dari peraduannya, merentangkan kaki dalam sujud yang tak lekang oleh rasa kantuk. Bukan karena ia dipaksa. Bukan karena merasa berhak. Melainkan karena luapan cinta yang tak lagi bisa ia tahan.</p>
 
-    <p>Bukan karena keluh kesah. Bukan pula karena menuntut lebih. Melainkan karena luapan cinta yang tak lagi bisa ia tahan.</p>
-
-    <p>Suatu hari, seorang sahabat bertanya dengan hati dipenuhi iba: "Wahai Rasulullah, mengapa engkau menyiksa dirimu sedemikian rupa, padahal Allah telah mengampuni dosamu yang lalu dan yang akan datang?"</p>
+    <p>Bukan karena keluh kesah. Bukan pula karena menuntut lebih. Melainkan karena rasa syukur yang tumbuh sedemikian dalam dada, sehingga tak cukup disimpan dalam hati yang kaku. Dan ketika seorang sahabat bertanya dengan hati dipenuhi iba: <em>"Wahai Rasulullah, mengapa engkau menyiksa dirimu sedemikian rupa, padahal Allah telah mengampuni dosamu yang lalu dan yang akan datang?"</em> maka terlahir yang paling memukul hati: <em>"Apakah aku bukan hamba yang banyak bersyukur?"</em></p>
 
     <p>Maka dari bibir yang paling jujur di muka bumi, terucaplah kalimat yang menggetarkan semesta:</p>
 
@@ -359,11 +363,9 @@
       <div class="meaning">"Tidakkah aku ingin menjadi hamba yang banyak bersyukur?"</div>
     </div>
 
-    <p>Bagi baginda Nabi, syukur bukan sekadar ucapan di bibir saat nikmat berlimpah. Syukur adalah napas kehidupannya — sujud yang tak kenal lelah, air mata kerinduan di sepertiga malam, dan kesabaran yang membatu di tengah terpaan batu dan caci maki.</p>
+    <p>Bagi baginda Nabi, syukur bukan sekadar ucapan di bibir saat nikmat berlimpah. Syukur adalah napas kehidupannya — sujud yang tak kenal lelah, air mata kerinduan di sepertiga malam, dan kesabaran yang menjadikan sepi sebagai ruang komunikasi dengan Sang Pencipta. Diberi kelapangan, ia bersujud dalam kerendahan. Diberi kesempitan, ia memeluknya sebagai didikan langsung dari Tuhan. Bahkan ketika sepiring gandum utuh belum tentu tersaji di rumahnya, senyum tetap hidup di wajahnya, sebab ia tahu allah lah sumber segala nikmat, bukan sekadar apa yang ada di meja.</p>
 
-    <p>Diberi kelapangan, ia bersujud dalam kerendahan. Diberi kesempitan, ia memeluknya sebagai didikan langsung dari Tuhan. Bahkan ketika sepiring gandum utuh belum tentu tersaji di rumahnya, senyumnya tetap merekah — menatap langit, berbisik bahwa apa yang ada di sisi-Nya jauh lebih kekal dan indah.</p>
-
-    <p>Lantunan syukurnya adalah seluruh hidupnya, hingga helaan napas terakhir di pangkuan Aisyah. Ia mengajarkan kita satu hal: puncak dari segala cinta di dunia hanyalah satu — tenggelam dalam rasa terima kasih yang abadi kepada Zat yang menghidupkan jiwa.</p>
+    <p>Lantunan syukurnya adalah seluruh hidupnya, hingga helaan napas terakhir di pangkuan Aisyah. Ia mengajarkan kita satu hal: puncak dari segala cinta di dunia hanyalah satu — tenggelam dalam rasa syukur, dan menyalakan cahaya itu pada setiap langkah kehidupan.</p>
   </section>
 
   <!-- BAB 5 -->
@@ -376,20 +378,20 @@
       <img src="https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=900" alt="bintang malam">
     </div>
 
-    <p class="lede">Jika ilmu modern memandang syukur lewat kacamata psikologi dan sains otak, para pencari hikmah memandangnya lebih dalam lagi — sebagai cara kita berada, dan cara kita mengetahui kebenaran hidup ini.</p>
+    <p class="lede">Jika ilmu modern memandang syukur lewat kacamata psikologi dan sains otak, para pencari hikmah memandangnya lebih dalam lagi — sebagai cara kita berada, dan cara kita mengetahui keberadaan kita di depan Sang Pencipta.</p>
 
     <h3 class="sub">Menyadari Diri sebagai Titipan</h3>
-    <p>Renungkan ini: kita tidak menciptakan sel-sel tubuh kita sendiri, tidak pula memesan denyut jantung kita sendiri. Kita ada karena diadakan, bukan ada dengan sendirinya. Syukur adalah pengakuan paling jujur akan hal ini — bahwa keberadaan kita adalah anugerah murni. Kita bukan pusat semesta yang arogan, melainkan penerima tulus yang sadar diri di hadapan Sang Maha Sumber.</p>
+    <p>Renungkan ini: kita tidak menciptakan sel-sel tubuh kita sendiri, tidak pula memesan denyut jantung kita sendiri. Kita ada karena diadakan, bukan ada dengan sendirinya. Syukur adalah pengakuan bahwa hidup kita adalah titipan yang memiliki pemilik. Ketika hati tahu ini, ia akan menjadi lembut, tidak sombong, dan tidak mudah menganggap diri sebagai pusat segala sesuatu.</p>
 
     <h3 class="sub">Melihat Realitas dengan Lensa yang Jernih</h3>
-    <p>Kita sering terjebak ilusi bahwa penderitaan adalah keburukan mutlak, dan kenikmatan adalah kebaikan mutlak. Syukur membalik kacamata ini. Ia melatih kita melihat relasi yang lebih luas — bahwa masalah bukanlah hukuman, melainkan pelajaran; dan nikmat bukanlah hak istimewa, melainkan amanah yang menuntut tanggung jawab.</p>
+    <p>Kita sering terjebak ilusi bahwa penderitaan adalah keburukan mutlak, dan kenikmatan adalah kebaikan mutlak. Syukur membalik kacamata ini. Ia melatih kita melihat relasi yang lebih luas — bahwa bahkan dalam kesulitan, ada hikmah yang sedang menata jiwa; dan dalam kemudahan, ada kewaspadaan agar kita tidak menjadi terlena. Di sinilah kedalaman syukur dimulai: bukan pada apa yang terjadi, melainkan pada bagaimana hati menyikapi semua itu.</p>
 
     <h3 class="sub">Menemukan Kebebasan Sejati</h3>
-    <p>Orang yang tidak bersyukur, sesungguhnya, adalah budak dari keinginannya sendiri — selalu merasa kurang, cemas, dan dengki. Sebaliknya, orang yang mampu bersyukur atas apa yang ada mencapai kemandirian jiwa, di mana kebahagiaannya tak lagi ditentukan oleh dunia luar. Syukur melebur kesombongan menjadi kerendahan hati, dan mengubah rasa memiliki menjadi rasa menerima titipan.</p>
+    <p>Orang yang tidak bersyukur, sesungguhnya, adalah budak dari keinginannya sendiri — selalu merasa kurang, cemas, dan dengki. Sebaliknya, orang yang mampu bersyukur atas apa yang ada mencapai kebebasan yang lebih besar: tidak lagi dibelenggu oleh rasa serakah, hasrat untuk selalu lebih, dan rasa tak puas yang membuat hidup tak pernah cukup. Kebebasan sejati adalah saat hati tidak lagi bertanya "apa yang hilang?" tetapi "apa yang bisa ku syukuri hari ini?"</p>
 
     <p class="pull">Syukur adalah kearifan tertinggi yang menyelaraskan hati manusia dengan irama agung semesta.</p>
 
-    <p>Ketika pengetahuan ini bertemu dengan lelaku nyata — ketundukan ego, kesediaan bersujud di tengah badai — lahirlah manusia yang utuh. Manusia yang langkah kakinya di bumi adalah ibadah, dan detak jantungnya adalah tasbih yang abadi.</p>
+    <p>Ketika pengetahuan ini bertemu dengan lelaku nyata — ketundukan ego, kesediaan bersujud di tengah badai — lahirlah manusia yang utuh. Manusia yang langkah kakinya di bumi adalah ibadah, dan matanya menangkap keindahan dalam kesederhanaan. Ia bukan tak pernah lelah; ia hanya menempatkan lelah itu dalam konteks ibadah yang menjadikan semua jadi bernilai.</p>
   </section>
 
   <!-- BAB 6 -->
@@ -406,15 +408,15 @@
 
     <p>Padahal kebahagiaan bukan destinasi. Ia adalah cara pandang di sepanjang perjalanan. Dan cara pandang itu bernama syukur.</p>
 
-    <p>Ketika kita bersyukur, kita berhenti memprotes kenyataan dan mulai merangkulnya. Hati tak lagi tersandera oleh masa lalu yang telah hilang, atau cemas berlebihan pada hari esok yang belum tiba. Kita hidup sepenuhnya di sini, di detik ini — dengan kesadaran bahwa apa pun yang sedang kita genggam, sedikit atau banyak, adalah cukup.</p>
+    <p>Ketika kita bersyukur, kita berhenti memprotes kenyataan dan mulai merangkulnya. Hati tak lagi tersandera oleh masa lalu yang telah hilang, atau cemas berlebihan pada hari esok yang belum tiba. Yang tersisa hanya saat ini, yang dalam kerelaan hati menjadi ruang untuk menerima, belajar, dan melangkah dengan lebih tenang.</p>
 
-    <p>Kebahagiaan yang lahir dari syukur bukan euforia sesaat yang riuh. Ia ketenangan yang mengakar kuat di dalam dada — rasa lapang yang membuat kita bisa tersenyum di tengah kesederhanaan, dan merasa kaya meski kantong sedang pas-pasan.</p>
+    <p>Kebahagiaan yang lahir dari syukur bukan euforia sesaat yang riuh. Ia ketenangan yang mengakar kuat di dalam dada — rasa lapang yang membuat kita bisa tersenyum di tengah kesederhanaan, dan merenungi bahwa bahkan hari yang paling biasa pun masih penuh dengan tanda-tanda kasih.</p>
 
     <p>Maka barang siapa mengunci hatinya pada rasa syukur, ia telah menemukan kunci kebahagiaan yang tak bisa dibeli dunia, dan tak bisa direbut keadaan apa pun.</p>
 
     <h3 class="sub">Tiga Cara Syukur Melipatgandakan Hidup</h3>
     <ul class="points">
-      <li><b>Mengubah keterbatasan menjadi kanvas.</b> Orang yang tak bersyukur melihat keterbatasan sebagai tembok buntu. Ahli syukur melihatnya sebagai ruang untuk berkarya sekecil apa pun kemampuannya.</li>
+      <li><b>Mengubah keterbatasan menjadi kanvas.</b> Orang yang tak bersyukur melihat keterbatasan sebagai tembok buntu. Ahli syukur melihatnya sebagai ruang untuk berkarya sekecil apa pun kemampuan yang diberikan.</li>
       <li><b>Melipatgandakan manfaat.</b> Semakin tulus kita mensyukuri ilmu, tenaga, dan waktu yang dititipkan, semakin luas pintu kebermanfaatan yang Tuhan bukakan untuk sesama.</li>
       <li><b>Menjaga ketulusan dalam berkarya.</b> Saat setiap langkah dipandang sebagai terima kasih kepada-Nya, lelah dalam bekerja berubah menjadi lezatnya ibadah.</li>
     </ul>
@@ -437,7 +439,7 @@
     <h3 class="sub">Doa Syukur Pagi dan Petang</h3>
     <p>Rasulullah SAW bersabda, siapa yang membacanya di pagi atau sore hari, ia telah menunaikan syukur pada hari itu.</p>
     <div class="arabic-card">
-      <div class="arabic">اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ</div>
+      <div class="arabic">اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ</div>
       <div class="translit">Allahumma maa ashbaha bii min ni'matin aw bi-ahadin min khalqika faminka wahdaka laa syariika laka, falakal hamdu wa lakasy syukru</div>
       <div class="meaning">"Ya Allah, nikmat apa pun yang ada padaku pagi ini atau pada salah satu makhluk-Mu, semua hanya dari-Mu semata, tiada sekutu bagi-Mu. Bagi-Mu segala puji dan bagi-Mu segala syukur."</div>
     </div>
@@ -459,7 +461,7 @@
     </div>
 
     <h3 class="sub">Sujud Syukur</h3>
-    <p>Ini praktik langsung Rasulullah SAW ketika menerima kabar gembira atau terselamatkan dari bahaya — beliau langsung sujud di tempat sebagai tanda kerendahan hati kepada Allah. Caranya: bertakbir, sujud seperti sujud shalat, membaca tasbih, lalu bangkit tanpa salam.</p>
+    <p>Ini praktik langsung Rasulullah SAW ketika menerima kabar gembira atau terselamatkan dari bahaya — beliau langsung sujud di tempat sebagai tanda kerendahan hati kepada Allah. Caranya: bertakbir, lalu sujud dua rakaat atau sujud sekali sambil mengucapkan hamdalah dengan khidmat. Dalam sujud syukur, hati bukan sekadar menyanjung nikmat, tetapi mengakui bahwa segala kebaikan itu datang dari Allah semata.</p>
 
     <h3 class="sub">Syukur atas Pakaian Baru</h3>
     <div class="arabic-card">
@@ -469,9 +471,9 @@
     </div>
 
     <h3 class="sub">Syukur Lewat Tindakan Nyata</h3>
-    <p>Puncak wirid syukur Rasulullah adalah keteladanan dalam beribadah. Beliau sering shalat malam hingga kakinya bengkak. Ketika Aisyah RA bertanya mengapa, padahal dosanya telah diampuni, beliau menjawab:</p>
+    <p>Puncak wirid syukur Rasulullah adalah keteladanan dalam beribadah. Beliau sering shalat malam hingga kakinya bengkak. Ketika Aisyah RA bertanya mengapa, padahal dosanya telah diampuni, beliau menjawab: <em>"Apakah aku bukan hamba yang banyak bersyukur?"</em></p>
     <div class="arabic-card">
-      <div class="arabic">أَفَلَا أُحِبُّ أَنْ أَكُونَ عَبْدًا شَكُورًا</div>
+      <div class="arabic">أَفَلَا أُحِبُّ أَنْ أَكُونَ عَبْدًا شَكُورًا</div>
       <div class="translit">Afala uhibbu an akuuna 'abdan syakuura</div>
       <div class="meaning">"Tidakkah aku ingin menjadi hamba yang banyak bersyukur?"</div>
     </div>
@@ -489,11 +491,11 @@
       <img src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=900" alt="cahaya senja">
     </div>
 
-    <p class="lede">Perjalanan ini tak pernah benar-benar memiliki garis akhir. Ketika halaman terakhir ditutup, bukan berarti cinta dan syukur telah selesai dirajut — ia justru baru saja mulai bernapas di dalam dadamu.</p>
+    <p class="lede">Perjalanan ini tak pernah benar-benar memiliki garis akhir. Ketika halaman terakhir ditutup, bukan berarti cinta dan syukur telah selesai dirajut — ia justru baru saja mulai bernyanyi lebih indah di dalam hati yang telah belajar mendengarkan.</p>
 
-    <p>Di luar sana, dunia mungkin tetap bising. Badai akan tetap datang berganti musim, kerikil tajam akan tetap menguji langkah kaki. Namun bagi jiwa yang telah menemukan rahasia pelukan Sang Maha Kekasih, gelombang kehidupan tak lagi terlihat sebagai ancaman. Ia adalah simfoni. Ia adalah rida. Ia adalah titipan hangat dari Zat yang paling mengerti porsi hamba-Nya.</p>
+    <p>Di luar sana, dunia mungkin tetap bising. Badai akan tetap datang berganti musim, kerikil tajam akan tetap menguji langkah kaki. Namun bagi jiwa yang telah menemukan rahasia pelukan Sang Maha Pengasih, semua itu bukan lagi ancaman yang menghancurkan, melainkan pemangkas ego yang menyucikan hati.</p>
 
-    <p>Maka biarlah renungan ini menjadi saksi, bahwa kita pernah duduk bersama dalam hening yang suci — meresapi setiap denyut nadi sebagai tasbih, dan melangkah di atas bumi dengan jubah syukur yang tak pernah tanggal.</p>
+    <p>Maka biarlah renungan ini menjadi saksi, bahwa kita pernah duduk bersama dalam hening yang suci — meresapi setiap denyut nadi sebagai tasbih, dan melangkah di atas bumi dengan jubah syukur yang tak pernah terlalu berat untuk dikenakan.</p>
 
     <p>Pulanglah ke dalam dirimu yang tenang. Bawalah terang itu ke mana pun kakimu melangkah. Dan biarkan hidupmu menjadi kidung abadi cinta kepada Sang Pemilik Semesta.</p>
 
@@ -502,6 +504,10 @@
       Aamiin ya Rabbal 'alamin.
     </div>
   </section>
+
+  <div style="padding:0 24px 60px; text-align:center;">
+    <a href="index.html" style="display:inline-block; padding:12px 20px; border-radius:999px; background:#a9782f; color:#fff; text-decoration:none; font-weight:700; box-shadow:0 10px 20px rgba(169,120,47,.18);">← Kembali ke halaman 1</a>
+  </div>
 
 </div>
 </body>
